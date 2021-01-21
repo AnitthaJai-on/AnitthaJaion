@@ -1,7 +1,7 @@
 # Website's AnitthaJaion
 สร้างว็บสหรับก็บผลงานต่างๆ ในรูปแบบออนไลน์ <br>
 **จุดประสงค์หลัก** เพื่อไม่ให้งานที่เคยทำไปหาย
-[AnitthaJaion.netlify.app/](Anittha.netlify.app/)
+[Anittha.netlify.app/](https://anittha.netlify.app/)
 
 ## One Page
 * page 1 (index) **Main** ........ออกแบบในXD
