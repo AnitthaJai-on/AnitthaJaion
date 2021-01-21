@@ -2,6 +2,7 @@
 สร้างว็บสหรับก็บผลงานต่างๆ ในรูปแบบออนไลน์ <br>
 **จุดประสงค์หลัก** เพื่อไม่ให้งานที่เคยทำไปหาย
 [Anittha.netlify.app/](https://anittha.netlify.app/)
+[Netlify](https://app.netlify.com/)
 
 ## One Page
 * page 1 (index) **Main** ........ออกแบบในXD
