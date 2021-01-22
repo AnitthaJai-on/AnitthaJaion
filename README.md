@@ -17,9 +17,15 @@
   * [ ] maya ปี 2 //ถ้ามี
   * [ ] maya ปี 3
   * [ ] zblush ปี 3
+  
 * งานgame
   * [ ] unreal ปี 2 
+  
 * งานweb
   * [ ] ปี 2 //ถ้ามี
   * [ ] ปี 3 ดาว
   * [ ] ปี 3 เท่าเทียม
+
+* link
+[ดาวหาง](https://cometget-a.netlify.app/)
+[เท่าเทียม](https://equalnotequal.netlify.app/)
